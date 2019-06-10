@@ -1,0 +1,19 @@
+{
+  "name": "hennessey-react",
+  "version": "1.0.0",
+  "description": "front end react boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jhennessey1/react-boilerplate.git"
+  },
+  "author": "Joey Hennessey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhennessey1/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/jhennessey1/react-boilerplate#readme"
+}
